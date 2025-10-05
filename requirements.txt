@@ -2,7 +2,8 @@
 streamlit>=1.37.0
 pillow>=10.3.0
 pandas>=2.2.2
-streamlit-oauth
+streamlit-oauth>=0.1.7
+
 # Gemini SDKs (2.x aware)
 google-generativeai>=0.8.5
 google-ai-generativelanguage>=0.6.6
